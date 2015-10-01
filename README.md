@@ -1,6 +1,6 @@
-# nltk-np-scipy-binaries
+# Ubuntu textmining binaries
 
-NLTK, Numpy, Scipy binaries to support a Heroku buildpack
+Ubuntu compiled binaries for Python textmining in support of a Heroku buildpack.
 
 # About
 
